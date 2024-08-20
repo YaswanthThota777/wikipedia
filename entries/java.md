@@ -1,0 +1,1 @@
+It is a programming language and it is mostly used for mobile development
